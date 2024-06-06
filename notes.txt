@@ -1,0 +1,5 @@
+**But we recommend to use the same file for both Vite and Vitest instead of creating two separate files.
+vitest esta especializado apr atrabjar con vite si es que trabjas con el 
+
+
+----- workspace -- Los workspaces permiten definir múltiples configuraciones de pruebas dentro del mismo proyecto
